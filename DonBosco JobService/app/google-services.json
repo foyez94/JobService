@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330843954616",
+    "firebase_url": "https://donbosco-jobservice-64f59.firebaseio.com",
+    "project_id": "donbosco-jobservice-64f59",
+    "storage_bucket": "donbosco-jobservice-64f59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330843954616:android:74f41574d74771a03b834d",
+        "android_client_info": {
+          "package_name": "com.donbosco.jobservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330843954616-0p6304cfr990edrt2idgfe58ir21pjkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGWc7KBhH0H0VHrVbeas52XCP0akOLrXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330843954616-0p6304cfr990edrt2idgfe58ir21pjkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

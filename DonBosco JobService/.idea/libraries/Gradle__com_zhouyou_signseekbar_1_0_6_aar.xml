@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zhouyou:signseekbar:1.0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef7499e58b752f6d3a64f1e0113967bc/signseekbar-1.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef7499e58b752f6d3a64f1e0113967bc/signseekbar-1.0.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhouyou/signseekbar/1.0.6/f17e859e01c3482082e9520e7c8dc9017d32894a/signseekbar-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

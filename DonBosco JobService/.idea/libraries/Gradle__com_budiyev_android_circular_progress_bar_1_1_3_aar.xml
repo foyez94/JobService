@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.budiyev.android:circular-progress-bar:1.1.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/874a6902e60d7c58ade5c12308bf7da1/circular-progress-bar-1.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/874a6902e60d7c58ade5c12308bf7da1/circular-progress-bar-1.1.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.budiyev.android/circular-progress-bar/1.1.3/1d5804a3f26312a45e5a2e379dece82972f7e67c/circular-progress-bar-1.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

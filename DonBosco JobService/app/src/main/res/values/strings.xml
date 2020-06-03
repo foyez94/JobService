@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Don Bosco Job</string>
+
+    <!-- Keys -->
+    <string name="facebook_app_id">3613990845309904</string>
+    <string name="fb_login_protocol_scheme">fb3613990845309904</string>
+<!--    Enter Your google_maps_API_key here-->
+    <string name="google_maps_API_key">AIzaSyByPV0dNldxogqwR8Ix7XVcEgAsH2f6Q78</string>
+<!--    Enter Your google_places_API_key here-->
+    <string name="google_places_API_key">AIzaSyByPV0dNldxogqwR8Ix7XVcEgAsH2f6Q78</string>
+<!--    Enter Your google_api_credentials_for_youtube here-->
+    <string name="google_api_credentials_for_youtube">AIzaSyByPV0dNldxogqwR8Ix7XVcEgAsH2f6Q78</string>
+    <!-- Keys -->
+
+    <string name="loading_text">Loading....</string>
+    <string name="singup">Sign up</string>
+    <string name="signin">Sign in</string>
+    <string name="createaccount">Create a new account</string>
+    <string name="LoginYourAccount">Login Your Account</string>
+    <string name="ForogotPassword">ForgotPassword</string>
+
+    <string name="openDrawer">open</string>
+    <string name="closeDrawer">close</string>
+
+    <string name="job_result">100 Result</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_gifts">Gifts</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">loading</string>
+    <string name="sh_linkedin_progress_dialog_message">Please wait! This may take a moment.</string>
+    <string name="welcome_text">Welcome</string>
+</resources>
